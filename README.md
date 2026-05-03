@@ -11,5 +11,5 @@ I'm using separate branches to focus only on one action/item I want to develop a
 
 Contributors names and contact info
 
-ex. Manase Duku Wani (Kirbruh)  
-ex. [Manase Duku Wani]([kirbwuh](https://www.linkedin.com/in/manasedukuwani/))
+Manase Duku Wani (Kirbruh)  
+LinkedIn: https://www.linkedin.com/in/manasedukuwani
