@@ -1,15 +1,31 @@
-# Kirbruh's Vr Emporium
+# Kirbruh's VR Emporium
 
-A Personal Project to help get family and friends into VR.
+A personal Unity 6 VR project built to sharpen my XR development skills and create an original VR experience for friends and family.
 
-## Description
+## About
 
-A Personal Project to allow myself to become more familar Unity's XR interaction system and heLp me create my own game with this interaction system.
-I'm using separate branches to focus only on one action/item I want to develop and will eventually merge all into a main build.
+This project serves as both a learning ground and a portfolio piece as I work toward a career in the XR/VR industry. I'm using it to deepen my understanding of Unity's XR Interaction Toolkit and build original VR minigames from the ground up.
 
-## Authors
+Each feature is developed in its own branch and merged into the main build once complete.
 
-Contributors names and contact info
+## Built With
 
-Manase Duku Wani (Kirbruh)  
-LinkedIn: https://www.linkedin.com/in/manasedukuwani
+- Unity 6
+- C#
+- XR Interaction Toolkit
+
+## Current Features
+
+- VR character controller with smooth player locomotion
+- Foundational hand interaction system for object manipulation in VR
+
+## Roadmap
+
+- [ ] Ray-cast and poke interaction systems
+- [ ] Original VR minigames
+- [ ] Full main build merge
+
+## Author
+
+**Manase Duku Wani (Kirbruh)**  
+[LinkedIn](https://www.linkedin.com/in/manasedukuwani)
